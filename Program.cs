@@ -81,15 +81,10 @@
 //order.PlaceOrder();
 //order2.PlaceOrder();
 
-/* Composistion
- * 
- * Composition involves creating complex objects by combining simpler objects or components.
- * In composition, objects are assembled together to form larger structures, with each component
- * object maintaining its own state and behavior. Composition is often described in terms of a
- * "Has-A" relationship.
- */
 
-using Patterns.Composition;
 
-Car car = new();
-car.StartCar();
+//using Patterns.Composition;
+
+//Car car = new();
+//car.StartCar();
+

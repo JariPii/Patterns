@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patterns.Coupling
+namespace Patterns.OOPPrinciples.Coupling
 {
     internal interface INotificationService
     {

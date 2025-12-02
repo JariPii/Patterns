@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patterns.Composition
+namespace Patterns.OOPPrinciples.Composition
 {
     internal class Seats
     {
